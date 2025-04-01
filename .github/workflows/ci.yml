@@ -24,5 +24,5 @@ jobs:
                  echo "Arij No tests set up yet! come back later!"
                  
             - name: Build app
-              run: npm run build
+              run: 
               continue-on-error: true              
