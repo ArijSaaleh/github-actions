@@ -23,6 +23,4 @@ jobs:
               run:  | 
                  echo "Arij No tests set up yet! come back later!"
                  
-            - name: Build app
-              run: 
-              continue-on-error: true              
+                    
